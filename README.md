@@ -1,5 +1,7 @@
 # Rod Locker
 
+![Rod Locker thumbnail](thumbnail.png)
+
 Winch mod for DREDGE.
 
 Adds a Rod Locker button to Blackstone Isle. The locker contains one of each platform-colored Custom Rod variant, including the mobile iOS and Android rods. Each rod is free, uses the vanilla Custom Rod stats, and can only be taken once per save.
