@@ -1,0 +1,18 @@
+﻿{
+	"itemNameKey": "item.rod21.name",
+	"itemDescriptionKey": "item.rod21.description",
+	"sprite": "legoless.rodlocker.gog",
+	"itemColor": {
+		"r": 49,
+		"g": 49,
+		"b": 49,
+		"a": 255
+	},
+	"value": 0,
+	"dimensions": [
+		"XX"
+	],
+	"harvestableTypes": [ "COASTAL" ],
+	"fishingSpeedModifier": 0.4,
+	"aberrationCatchBonus": 0
+}

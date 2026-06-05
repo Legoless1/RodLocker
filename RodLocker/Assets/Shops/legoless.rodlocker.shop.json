@@ -1,0 +1,12 @@
+﻿{
+	"gridKey": "ROD_LOCKER",
+	"alwaysInStock": [
+		"legoless.rodlocker.playstation",
+		"legoless.rodlocker.xbox",
+		"legoless.rodlocker.switch",
+		"legoless.rodlocker.steam",
+		"legoless.rodlocker.gog",
+		"legoless.rodlocker.ios",
+		"legoless.rodlocker.android"
+	]
+}

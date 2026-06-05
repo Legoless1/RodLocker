@@ -1,0 +1,7 @@
+{
+	"gridKey": "ROD_LOCKER",
+	"columns": 7,
+	"rows": 2,
+	"mainItemType": [ "EQUIPMENT" ],
+	"mainItemSubtype": [ "ROD" ]
+}

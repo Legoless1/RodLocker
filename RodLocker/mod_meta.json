@@ -1,0 +1,9 @@
+{
+	"Author": "legoless",
+	"Name": "Rod Locker",
+	"ModGUID": "legoless.RodLocker",
+	"Version": "2.0.0",
+	"ModAssembly": "RodLocker.dll",
+	"MinWinchVersion": "0.6.2",
+	"Entrypoint": "RodLocker.Loader/Initialize"
+}
